@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.SuperWizard" <!-- NOMBRE DEL ADDON WIZARD -->
-	   name="SUPERWIZARD]" <!-- NOMBRE DEL WIZARD -->
-	   version="1.0.1" <!-- VERSION DEL WIZARD -->
-	   provider-name="Gabito"> <!-- CREADOR WIZARD -->
+<addon id="plugin.video.superwizard"
+	   name="superwizard"
+	   version="1.0.1"
+	   provider-name="Gabito">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
