@@ -69,7 +69,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.superwizard"
+<addon id="plugin.video.superwizard"
 	   name="superwizard"
 	   version="1.0.1"
 	   provider-name="Gabito">
